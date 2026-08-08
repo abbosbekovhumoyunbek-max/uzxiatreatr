@@ -1,0 +1,32 @@
+export const eventsData = [
+  {
+    id: 'event-1',
+    title: 'AI Hackathon 2026: Kelajak Ilovalari',
+    date: '15 Avgust, 2026',
+    time: '10:00 — 18:00',
+    location: 'UZXIAtreatr Asosiy Zal / Onlayn Stream',
+    description: '24 soatlik davomida AI vositalari yordamida innovatsion amaliy dasturlar yaratish bo\'yicha talabalar musobaqasi.',
+    status: 'Bo\'lib o\'tadi',
+    badgeVariant: 'cyan',
+  },
+  {
+    id: 'event-2',
+    title: 'Master-klass: LLM va Prompt Engineering Sirlari',
+    date: '22 Avgust, 2026',
+    time: '15:00 — 17:00',
+    location: 'Akademiya Mediatékasi',
+    description: 'Yirik til modellari bilan professional darajada ishlash va samarali promptlar tuzish boyicha amaliy seminar.',
+    status: 'Ro\'yxatdan o\'tish ochiq',
+    badgeVariant: 'violet',
+  },
+  {
+    id: 'event-3',
+    title: 'Kiberxavfsizlik va Sun\'iy Intellekt Vebinari',
+    date: '30 Avgust, 2026',
+    time: '18:00 — 19:30',
+    location: 'Online Webinar Stream',
+    description: 'Tarmoq xavfsizligini ta\'minlashda mashinali o\'rgatish modellarini qo\'llash va zamonaviy tahdidlardan himoyalanish.',
+    status: 'Rejalashtirilgan',
+    badgeVariant: 'emerald',
+  },
+];
